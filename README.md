@@ -39,8 +39,6 @@ I’m always happy to meet new people and collaborate to new projects so please 
 <br>
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=lucadido06&theme=react-dark)
-
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=lucadido06&theme=dark&hide_border=false" width = 500>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=lucadido06&show_icons=true&theme=dark" width = 500>
