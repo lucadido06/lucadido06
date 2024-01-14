@@ -12,8 +12,7 @@
 
 
 I am a Full-stack developer with industry experience building websites and web applications. 
-I specialize in JavaScript/TypeScript and have professional experience working with C#, node.js, and Vue.js ( which at the moment is my favorite framework ).
-I also have experience working with React.js, Next.js. 
+I specialize in JavaScript/TypeScript and have professional experience working with C#, node.js, React.js and Vue.js.
 I’m always happy to meet new people and collaborate to new projects so please feel free to say hello!
 
 <br>
